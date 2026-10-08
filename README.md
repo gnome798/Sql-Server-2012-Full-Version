@@ -241,4 +241,4 @@ This repository serves as the official landing page for SQL Server 2012. The sof
 **Get the most recent version of SQL Server 2012 today!**
 
 ---
-**Last updated:** 2026-10-08 00:48:01 UTC
+**Last updated:** 2026-10-08 07:05:57 UTC
